@@ -21,7 +21,6 @@ To change the system icons with the example one:
 
 Examples icons are property of [Sticker Pack 1][] - by David Lanham - IconFactory
 
-All copyrights remain the property of their respective holders. 
-
+All copyrights remain the property of their respective holders.
 
 [Sticker Pack 1]: http://iconfactory.com/freeware/preview/stkr1
