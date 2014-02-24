@@ -24,3 +24,4 @@ Examples icons are property of [Sticker Pack 1][] - by David Lanham - IconFactor
 All copyrights remain the property of their respective holders.
 
 [Sticker Pack 1]: http://iconfactory.com/freeware/preview/stkr1
+
